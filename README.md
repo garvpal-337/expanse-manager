@@ -1,16 +1,6 @@
-# expensesapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div style="background-color: #3498db; color: white; text-align: center; padding: 20px;">
+  <h1>Expense Manager App</h1>
+  <p>This app is for traking daily expanses.</p>
+  <p>This app is for practice purposes only, and it does not save any data.</p>
+  <p>This app was created as a learning project.</p>
+</div>
